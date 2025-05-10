@@ -1,9 +1,4 @@
-# Projeto: De aprendizado em Python
+# Projeto: De aprendizado de Machine Learning em Python
 
+Este projeto foi desenvolvido como parte da aula de Machine Learning do curso Inteligência Artificial da Pretalab. 
 
-Este projeto é a Tudo que aprendi, desde  resolução do exercício final da oficina de Python, integração com ferramentas como Google Colab e GitHub.
-
-# Visão Geral
-O projeto contém:
-
-Texto e codigos.
